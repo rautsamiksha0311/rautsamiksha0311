@@ -1,1 +1,38 @@
-# rautsamiksha0811
+# Hi, I'm Samiksha 👋
+
+🎓 MSc IT Student | BSc IT Graduate  
+💻 Software Testing | Python | SQL  
+🔍 Interested in QA, Software Testing & AI
+
+## 🛠️ Skills
+
+- Python
+- SQL
+- Manual Testing
+- HTML & CSS
+- Flutter & Dart
+- Firebase
+- Git & GitHub
+
+## 📌 Projects
+
+### 🧪 Budget Tracker — Manual Testing
+Manual testing project covering:
+- Test cases
+- Test execution
+- Bug reporting
+- Application screenshots
+
+### 💰 Budget Tracker App
+A Flutter + Firebase application for tracking income and expenses.
+
+## 📚 Currently Learning
+
+- Software Testing
+- Selenium
+- Python
+- AI & Machine Learning
+
+## 🎯 Career Goal
+
+Building practical IT experience while progressing toward an AI-focused career.
