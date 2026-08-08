@@ -79,19 +79,8 @@ A Flutter + Firebase application for managing personal finances.
 - 🔥 Firebase Integration
 - 📈 Spending Reports
 
+🔗 **[View Budget Tracker Project](https://github.com/rautsamiksha0311/Budget-Tracker)**
+
 ---
 
-## 📚 Currently Learning
 
-```text
-Software Testing
-       ↓
-Manual Testing
-       ↓
-Test Case Design & Bug Reporting
-       ↓
-Selenium Automation
-       ↓
-Python
-       ↓
-AI & Machine Learning
