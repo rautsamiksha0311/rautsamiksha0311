@@ -22,9 +22,11 @@ Manual testing project covering:
 - Test execution
 - Bug reporting
 - Application screenshots
+🔗 **[View Manual Testing Project](https://github.com/rautsamiksha0311/Budget-Tracker-Manual-Testing)**
 
 ### 💰 Budget Tracker App
 A Flutter + Firebase application for tracking income and expenses.
+🔗 **[View Budget Tracker](https://github.com/rautsamiksha0311/Budget-Tracker)**
 
 ## 📚 Currently Learning
 
