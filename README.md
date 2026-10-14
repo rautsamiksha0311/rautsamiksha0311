@@ -39,7 +39,7 @@ To become an AI Engineer by developing practical projects, strengthening my mach
 
 ## 🔗 Connect With Me
 
-- 💻 **GitHub:** [@rautsamiksha0311](https://github.com/rautsamiksha0311)
+- 💻 **Email:** [rautsamiksha0311@gmail.com](rautsamiksha0311@gmail.com)
 
 ---
 
